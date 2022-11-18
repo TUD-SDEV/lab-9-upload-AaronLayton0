@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "1d3befb9-21db-4659-aee2-8c0b99318a85",
+        "fields": {
+            "title": "Django",
+            "author": "Darren John",
+            "price": "15.00",
+            "date_publication": "2016-09-11",
+            "cover": "covers/DjangoUnleashed.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "7706df28-0128-421b-820c-2d0f51e264c1",
+        "fields": {
+            "title": "Nike",
+            "author": "Mary Lou",
+            "price": "33.00",
+            "date_publication": "2019-01-24",
+            "cover": "covers/Lightweight.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "a4d62b35-903b-4b8b-a036-37c71cfccf5c",
+        "fields": {
+            "title": "Diary",
+            "author": "Leo",
+            "price": "100.00",
+            "date_publication": "2022-11-07",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    }
+]
